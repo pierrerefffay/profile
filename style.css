@@ -1,0 +1,86 @@
+body {
+  background: #F6F7F7
+}
+h1 {
+  color: #575F7D;
+  font-family:'Crimson Pro', serif;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 17px 0px 20px 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #6B72E1;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+
+a:hover {
+  color: black;
+}
+
+h3
+{
+  color: #7ECE90
+}
+
+p {
+  margin: 17px 0px 28px 0px;
+  font-family: 'Lato', sans-serif;
+}
+
+#discover-link {
+  background-color: #6B72E1;
+  padding: 10px 10px;
+  border-radius: 5px;
+  color: white;
+  margin: 60px 20px;
+}
+#discover-link:hover {
+  background-color: white;
+  border: solid black 1px;
+  color: black;
+}
+
+#container {
+  width: 50%;
+  margin: 40px auto;
+}
+
+.img-circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.card-white {
+  background-color: white;
+  box-shadow: 5px 5px 5px 5px #FFFFFF;
+  margin: 24px auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+i {
+  font-size: 36px;
+}
+
+
+
+
